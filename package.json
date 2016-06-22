@@ -1,0 +1,31 @@
+{
+  "name": "riot_flux_sample",
+  "version": "0.0.1",
+  "description": "",
+  "author": "kubotak-is",
+  "license": "MIT",
+  "dependencies": {
+    "blueimp-load-image": "^2.6.1",
+    "riot": "^2.4.1"
+  },
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-buble": "^0.6.0",
+    "gulp-environments": "^0.1.1",
+    "gulp-if": "^2.0.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-riot": "^0.5.1",
+    "gulp-rollup": "^1.9.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "riotcontrol": "0.0.3",
+    "rollup": "^0.26.7",
+    "rollup-plugin-commonjs": "^2.2.1",
+    "rollup-plugin-includepaths": "^0.1.5",
+    "rollup-plugin-json": "^2.0.0",
+    "rollup-plugin-npm": "^1.4.0",
+    "run-sequence": "^1.2.1"
+  }
+}
